@@ -7,9 +7,13 @@
     "start": "parcel index.html"
   },
   "dependencies": {
-    "parcel": "1.12.3"
+    "parcel": "^1.12.4",
+    "semver": "^7.3.4"
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
   }
 }
